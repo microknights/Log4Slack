@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Log4Slack\Log4Slack.csproj" />
+    <ProjectReference Include="..\Log4Slack\MicroKnights.Log4Slack.csproj" />
   </ItemGroup>
 
 </Project>

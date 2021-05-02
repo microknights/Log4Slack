@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4Slack", "Log4Slack\Log4Slack.csproj", "{189AF12B-F742-42F4-95B9-88944AA64FDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroKnights.Log4Slack", "Log4Slack\MicroKnights.Log4Slack.csproj", "{189AF12B-F742-42F4-95B9-88944AA64FDF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4SlackTesting", "Log4SlackTesting\Log4SlackTesting.csproj", "{3B464A67-C155-4041-BCDA-44F80CDD92DB}"
 EndProject
@@ -31,5 +31,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E1D8F9F-D290-417C-9F36-C94516B420C7}
 	EndGlobalSection
 EndGlobal

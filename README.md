@@ -1,5 +1,6 @@
-Log4Slack
+MicroKnights.Log4Slack
 =========
+Offspring of [jonfreeland/Log4Slack](https://github.com/jonfreeland/Log4Slack) now pure Netstandard2.1
 
 Simple, asynchronous [Slack](https://slack.com/) log4net appender. Grab the NuGet package [here](https://www.nuget.org/packages/Log4Slack/).
 
